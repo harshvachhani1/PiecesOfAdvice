@@ -28,6 +28,8 @@ export default function App() {
   )
 }
 
+// Message is a React component and we used props to pass data to it
+
 // console.log(React);
 
 // const Message = (props: { count :number}) => (<p> You have read <strong>{props.count}</strong> pieces of advice</p>)
